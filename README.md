@@ -57,6 +57,10 @@ To make your local server accessible over the internet, you can use ngrok. Follo
     
     ```
     
+### Obtaining Assistant ID and Phone Number ID
+
+1. **Assistant ID**: After creating an assistant in the VAPI Dashboard, you will receive an assistant ID. Use this ID in your configurations.
+2. **Phone Number ID**: Purchase a Twilio phone number. The ID of this phone number can be used for your purposes.
 
 ## Conclusion
 
